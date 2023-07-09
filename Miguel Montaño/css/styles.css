@@ -1,0 +1,19 @@
+.nombre {
+    font-size: 16px;
+    color: black;
+    background-color: yellow;
+  }
+  
+  .telefono {
+    font-size: 14px;
+    color: green;
+    background-color: red;
+  }
+  
+  .correo {
+    font-size: 12px;
+    color: blue;
+    background-color: pink;
+    text-decoration: underline;
+  }
+  
